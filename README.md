@@ -6,19 +6,19 @@ A imagem deve ser inferion a 2mb.
 # Build da Imagem 
 
 ```
-    $ docker build -t weiber-souza/desafio-go .
+    $ docker build -t weibersouza/desafio-go .
 ```
 
 # Pull da Imagem do Docker Hub
 
 ```
-    $ docker pull weiber-souza/desafio-go 
+    $ docker pull weibersouza/desafio-go 
 ```
 
 
 # Executar o Container
 
 ```
-    $ docker run --rm weiber-souza/desafio-go
+    $ docker run --rm weibersouza/desafio-go
 ```
 
